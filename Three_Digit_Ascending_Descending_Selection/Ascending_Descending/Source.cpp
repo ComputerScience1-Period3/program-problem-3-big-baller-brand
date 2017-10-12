@@ -10,8 +10,8 @@ Added "for" loop to void main() for program to loop 30 times; requirement of ass
 
 
 /*
-Your Name - Date Period 
-Assignment Name : Three_Digit_Ascend_Descend_Selection
+Jason Rogers & Cody Ho - 10/12/2017 Period 3
+Assignment Name : Three_Digit_Ascending_Descending_Selection
 Console prints whether digits of 3 digit number input are ascending or descending from left to right
 
 ALTERED: Added assignment name, description
