@@ -12,7 +12,7 @@ Added "for" loop to void main() for program to loop 30 times; requirement of ass
 /*
 Jason Rogers & Cody Ho - 10/12/2017 Period 3
 Assignment Name : Three_Digit_Ascending_Descending_Selection
-Brief Description of Assignment: Typing in a 3 digit integer and determining if it is ascending, descending or neither.
+Brief Description of the Assignment: Typing in a 3 digit integer and determining if it is ascending, descending or neither.
 */
 
 
